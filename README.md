@@ -15,7 +15,7 @@ This is test version whatsapp userbot
 
  Run the following commands to clone the repo (Use your fork)
  ```SH
-> git clone https://github.com/dzadehlyy/dzadehlyy-userbot
+> git clone https://github.com/dzadehlyy/dzadehlyy-userbot.git
 > cd dzadehlyy-userbot
  ```
 
